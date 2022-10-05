@@ -1,2 +1,2 @@
-# melodi
-учебный проект Glo Academy
+# melodi  учебный проект Glo Academy
+##  выполнил Александр Нефедов
